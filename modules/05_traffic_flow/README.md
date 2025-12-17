@@ -81,7 +81,7 @@ More lanes can actually make traffic WORSE! This blows people's minds.
 **Why?** Three reasons:
 
 1. **Induced demand**: More lanes → people think "traffic is better now" → more people drive → same congestion
-   - *Real example*: LA added lanes to I-405. Traffic got WORSE because more people started using it!
+   - *Real example*: LA added a carpool lane to I-405 freeway in 2014-2018 (cost $1.6 billion). Studies showed that average speeds during peak hours were actually slower after completion due to induced demand - more people started using the highway!
 
 2. **Merge points create problems**: More lanes = more merging = more opportunities for slowdowns
    - *Think about it*: Every lane merge is a potential bottleneck

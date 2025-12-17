@@ -101,8 +101,9 @@ Understanding randomness helps you in everyday life:
 
 ### 3. **`monte_carlo_pi.py`** - Calculate π with randomness!
 **What it does:**
-- Throw random darts at a square with a circle inside
-- Count how many land in the circle vs outside
+- Throw random darts at a square
+- Inside the square is a circle inscribed (touching all sides) - the circle's radius is half the square's side length
+- Count how many darts land in the circle vs outside
 - Use the ratio to estimate π (3.14159...)
 
 **Mind = blown:** You can calculate one of math's most famous constants using RANDOMNESS! This technique is called "Monte Carlo simulation" (named after the famous casino) and is used in physics, finance, and machine learning.

@@ -81,7 +81,7 @@ This is a key insight: Complex patterns from simple rules.
 
 *Analogy*: It's like turning the shower temperature knob. You turn it, but the water doesn't get hot immediately. By the time you feel the hot water, you've already turned it too far and now it's TOO hot. Then you overcorrect to cold. The delay causes oscillation!
 
-*Economic parallel*: Oil prices work the same way. High prices → companies drill more → takes years → too much oil → prices crash → companies stop drilling → takes years → shortage → prices rise again. The cycle never stops!
+*Economic parallel*: Oil prices show similar cycling patterns. High prices → companies drill more → takes years → too much oil → prices crash → companies stop drilling → takes years → shortage → prices rise again. The cycle continues! (Note: Real economic cycles involve many additional factors like geopolitics, storage capacity, and demand changes that aren't captured in simple predator-prey models, but the lag effect and cycling behavior are similar.)
 
 ### 2. Sensitivity to Parameters (Butterfly Effect!)
 

@@ -173,6 +173,8 @@ The percentage needed depends on R₀!
 
 **Formula:** Threshold ≈ (1 - 1/R₀) × 100%
 
+*Note: This is for a basic model assuming random mixing and perfect immunity. Real-world thresholds may be higher due to population structure, vaccine efficacy variations, and waning immunity.*
+
 **Examples:**
 - R₀ = 2: Need 50% immune (1 - 1/2 = 0.5 = 50%)
 - R₀ = 3: Need 67% immune (1 - 1/3 = 0.67 = 67%)
@@ -180,9 +182,11 @@ The percentage needed depends on R₀!
 
 **Why this matters:**
 - More contagious disease = need higher immunity percentage
-- Measles (R₀ ≈ 15) needs ~95% vaccination rate!
-- COVID-19 (R₀ ≈ 3) needs ~67% vaccination rate
+- Measles (R₀ ≈ 15) needs ~95% of population immune
+- COVID-19 (R₀ ≈ 3) needs ~67% of population immune
 - This is why "most people" isn't enough - need a specific percentage!
+
+**Important note on vaccination:** These percentages assume perfect vaccines. Since real vaccines aren't 100% effective, vaccination rates need to be higher than herd immunity thresholds. For example, if a vaccine is 90% effective, you'd need to vaccinate more people to achieve the same immunity level in the population.
 
 **The Ethical Dimension:**
 Vaccines protect TWO groups:
