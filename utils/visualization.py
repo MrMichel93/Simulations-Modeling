@@ -247,10 +247,11 @@ def side_by_side_comparison(data1, data2, title1="Simulation 1", title2="Simulat
 
 # Quick test if run directly
 if __name__ == "__main__":
+    import random
     print("Testing visualization utilities...")
     
     # Test time series plot
-    time_data = [[i + np.random.randint(-2, 3) for i in range(100)]]
+    time_data = [[i + random.randint(-2, 2) for i in range(100)]]
     plot_time_series(time_data, title="Test Time Series", ylabel="Random Value")
     
     print("Visualization utilities are working!")

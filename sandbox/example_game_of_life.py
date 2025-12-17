@@ -80,7 +80,9 @@ def count_alive_neighbors(grid, row, col):
             if dr == 0 and dc == 0:
                 continue  # Skip self
             
-            new_row = (row + dr) % size  # Wrap around edges
+            # Wrap around edges (toroidal topology - like a donut)
+            # This means the top connects to bottom, left connects to right
+            new_row = (row + dr) % size
             new_col = (col + dc) % size
             
             count += grid[new_row][new_col]

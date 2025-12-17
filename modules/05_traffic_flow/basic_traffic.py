@@ -55,6 +55,8 @@ def simulate_traffic(num_cars, road_length, time_steps,
         velocities_over_time.append([car.velocity for car in cars])
         
         # Create grid visualization
+        # Note: Add 1 to velocity to avoid zero values in visualization
+        # (makes stopped cars visible as minimum value, not background)
         grid = [0] * road_length
         for car in cars:
             grid[car.position % road_length] = car.velocity + 1

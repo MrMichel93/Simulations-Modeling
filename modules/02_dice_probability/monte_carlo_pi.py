@@ -14,6 +14,7 @@ import sys
 sys.path.append('../..')
 
 import random
+import math
 import matplotlib.pyplot as plt
 from utils.visualization import plot_time_series
 
@@ -127,8 +128,6 @@ def convergence_to_pi():
 
 
 def main():
-    import math
-    
     print("=" * 60)
     print("MONTE CARLO ESTIMATION OF π")
     print("=" * 60)
